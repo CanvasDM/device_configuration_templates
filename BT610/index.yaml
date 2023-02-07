@@ -1,0 +1,15 @@
+templates:
+  - v1.0/current_-_four_4-20mA_current_sensors_on_AIN1_through_AIN4/current_-_four_4-20mA_current_sensors_on_AIN1_through_AIN4.sh
+  - v1.0/current_-_single_4-20ma_current_sensor_on_AIN1/current_-_single_4-20ma_current_sensor_on_AIN1.sh
+  - v1.0/current_-_three_500A_current_sensors_on_AIN1_through_AIN3/current_-_three_500A_current_sensors_on_AIN1_through_AIN3.sh
+  - v1.0/pressure_-_single_pressure_sensor_on_AIN1/pressure_-_single_pressure_sensor_on_AIN1.sh
+  - v1.0/pressure_-_single_pressure_sensor_on_AIN4/pressure_-_single_pressure_sensor_on_AIN4.sh
+  - v1.0/pressure_-_two_pressure_sensors_on_AIN1_and_AIN4/pressure_-_two_pressure_sensors_on_AIN1_and_AIN4.sh
+  - v1.0/pressure_and_ultrasonic_-_pressure_sensor_on_AIN1_and_ultrasonic_sensor_on_AIN4/pressure_and_ultrasonic_-_pressure_sensor_on_AIN1_and_ultrasonic_sensor_on_AIN4.sh
+  - v1.0/thermistor_-_four_thermistors_on_TH1_through_TH4/thermistor_-_four_thermistors_on_TH1_through_TH4.sh
+  - v1.0/thermistor_-_single_thermistor_on_TH1/thermistor_-_single_thermistor_on_TH1.sh
+  - v1.0/thermistor_-_single_thermistor_on_TH4/thermistor_-_single_thermistor_on_TH4.sh
+  - v1.0/ultrasonic_-_single_ultrasonic_sensor_on_AIN1/ultrasonic_-_single_ultrasonic_sensor_on_AN1.sh
+  - v1.0/ultrasonic_-_single_ultrasonic_sensor_on_AIN4/ultrasonic_-_single_ultrasonic_sensor_on_AN4.sh
+
+
